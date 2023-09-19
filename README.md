@@ -1,2 +1,2 @@
-# wechat_miniprogram_files
-this repository is created for my wechat miniprogram developing
+# 小谭和权权的国庆出游计划
+
